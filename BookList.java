@@ -26,6 +26,7 @@ public class BookList
     names[17] = "The Meg";
     names[18] = "Fountainhead" 
     names[19] = "The borne identity";  
+    names[20] = "Death note";
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
     System.out.println(Arrays.toString(names)); 
